@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rack-protection
 Version  : 1.5.3
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/rack-protection-1.5.3.gem
 Source0  : https://rubygems.org/downloads/rack-protection-1.5.3.gem
 Summary  : No detailed summary available
